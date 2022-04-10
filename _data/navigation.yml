@@ -1,0 +1,23 @@
+# main links
+main:
+  - title: "Resources"
+    url: /resources/
+    #ACSL + USACO Resources
+  - title: "Achievements"
+    url: /achievements/
+  - title: "Competitions"
+    url: /competitions/
+  - title: "The Board"
+    url: /board/
+  - title: "Contact Us"
+    url: /contact-us/
+    #will include contact form and discord link
+
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
