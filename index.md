@@ -22,6 +22,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 # Upcoming Calendar
 
-fuck if i know how to insert a calendar yet
-
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23dbadff&ctz=America%2FNew_York&showTitle=0&showDate=0&showPrint=0&showTabs=0&showCalendars=0&mode=MONTH&src=ZGF2aWR5YW8yMTdAZ21haWwuY29t&src=aGdtOWk1NTJ2cmcwZ3Y2YTZzcm9hcWFqbDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=Zm03ZXJucnVhOGwxZnZzNTNuMnVrazVjMjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=cjJpaHN1dnZhcmplcXZyNTIzb2lmcXNucWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=NHZsa212MW01dmM1aG9hM2JwZTZrNjlkajBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=Y19jbGFzc3Jvb203OWVjZDIxOUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=Y19jbGFzc3Jvb21lOTgzZWFhM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23cc6558&color=%23039BE5&color=%239E69AF&color=%23cc0000&color=%23795548&color=%230047a8&color=%234285F4&color=%23007b83" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+put in url in commented out html
