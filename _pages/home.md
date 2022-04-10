@@ -22,5 +22,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 # Upcoming Calendar
 
-insert google calendar link after iframe src
-<iframe src="" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+insert google calendar link after iframe src (currently commented out)
+
+#<iframe src="" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
