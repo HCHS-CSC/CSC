@@ -22,4 +22,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 # Upcoming Calendar
 
-put in url in commented out html
+put in google calendar embedded link here
